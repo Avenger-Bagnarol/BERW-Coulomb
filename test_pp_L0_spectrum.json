@@ -1,0 +1,34 @@
+{
+    "input_output":
+    {
+        "main_file": "e_spectrum_pp_om0.5.txt",
+        "threshold_file": "",
+        "output_phase_shifts": "e_spectrum_pp_om0.5_phsh.txt",
+        "output_green": "e_spectrum_pp_om0.5_green.txt",
+        "print_green": false,
+        "print_lines" : 50
+    },
+
+    "physics":
+    {
+    	"unit_mass": 938.918,
+        "core_mass": 1,
+        "fragment_mass": 1,
+        "core_charge": 1,
+        "fragment_charge": 1,
+        "angular_momentum": 0
+    },
+
+    "numerics":
+    {
+    	"method": 0,
+    	"fit_diagonal": 0,
+        "max_iterations": 1000,
+        "no_of_points": 400,
+        "q": 1.025,
+        "r_min": 1e-3,
+        "max_radius_factor": 10,
+        "eta": 0.5,
+        "delta": 1e-8
+    }
+}
