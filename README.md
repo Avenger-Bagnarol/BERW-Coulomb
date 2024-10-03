@@ -2,7 +2,7 @@
 See the paper "Accurate calculation of low energy scattering phase shifts of charged particles in a harmonic oscillator trap" by M. Bagnarol, N. Barnea, M. Rojik and M. Schafer 
 
 ## BUSCH FORMULA WITH COULOMB APPLICATION  
-### Written by Mirko Bagnarol and Nir Barnea
+### Written by Mirko Bagnarol, Nir Barnea and Martin Schafer
 
 For a direct application see the paper Accurate calculation of low energy scattering phase shifts of charged particles in a harmonic oscillator trap
 
